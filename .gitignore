@@ -1,0 +1,41 @@
+
+# Cocos2dx Project Folder
+/Gomoku/proj.android/*
+/Gomoku/proj.ios_mac/*
+/Gomoku/proj.win32/Debug.win32/*
+
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Other
+*.tlog
+*.log
+*.pdb
